@@ -22,7 +22,7 @@ class Binarysearchinstrings{
 		int size=sc.nextInt();
 		String a[]=new String[size];
 		for(int i=0;i<size;i++)
-			a[i]=sc.nextLine();
+			a[i]=sc.next();
 		System.out.println("array before sort:");
 		display(a);
 		sortArray(a);
