@@ -1,5 +1,5 @@
 import java.util.Random;
-public class Rollingdice{
+public class Experiment7_Rollingdice{
 	public static void main(String args[]){
 		int c=0,d1,d2;
 		Random r=new Random();
