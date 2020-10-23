@@ -32,7 +32,7 @@ class circle extends shape{
     }
 }
 
-public class inherit{
+public class Experiment11_shape{
     public static void main(String args[]){
         shape obj=new rectangle();
         obj.printArea();;
