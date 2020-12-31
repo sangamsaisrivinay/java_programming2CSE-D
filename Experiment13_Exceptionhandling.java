@@ -1,5 +1,5 @@
 import java.util.Scanner;
-public class Experiment12_Exceptionhandling{
+public class Experiment13_Exceptionhandling{
   public static void main(String args[]){
     Scanner sc=new Scanner(System.in);
     int a,b;
