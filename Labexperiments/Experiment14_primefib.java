@@ -41,7 +41,7 @@ class fib extends Thread{
       return f;
     }
 }
-public class Experiment15_primefib{
+public class Experiment14_primefib{
   public static void main(String args[]){
     prime p=new prime();
     fib f=new fib();
